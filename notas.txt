@@ -1,0 +1,15 @@
+Dart:
+Es un lenguaje del lado del cliente para aplicaciones optimizado para UI 
+Es 100% compatible con Flutter
+
+Todo programa en dart inicia con la funcion main.
+Void le indica a dart que no retorna nada
+Dart puede inferir el tipo de dato que estoy utilizando
+
+
+
+Funcion main sincrona o asincrona?
+
+
+
+
