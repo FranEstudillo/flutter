@@ -6,10 +6,23 @@ Todo programa en dart inicia con la funcion main.
 Void le indica a dart que no retorna nada
 Dart puede inferir el tipo de dato que estoy utilizando
 
-
-
 Funcion main sincrona o asincrona?
+Se dice que una función es síncrona cuando las sentencias de código se ejecutan una detras de otra en una sola secuencia
+Antes de pasar a la siguiente instrucción se tiene que esperar a que termine la anterior
 
+Se dice que un afunción es asíncrona cuando el orden de las instrucciones no es lineal
+Una de sus características es que el programa puede inciar una tarea y continuar con otras mientras la primer tarea se completa
+
+¿Cuándo se usa cada uno?
+
+Síncrono: Se usa para tareas cortas y sencillas, o cuando es importante que las instrucciones se ejecuten en un orden específico.
+Asíncrono: Se usa para tareas largas o que bloquean el programa, permitiendo que este siga funcionando mientras la tarea se completa. Es muy útil para mejorar
+la experiencia del usuario en aplicaciones web y móviles.
+
+Ejemplos:
+
+Síncrono: Sumar dos números, leer un archivo de texto.
+Asíncrono: Hacer una petición a un servidor web, cargar una imagen.
 
 
 
